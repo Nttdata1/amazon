@@ -1,3 +1,5 @@
-"i am from master branch
+i am from master branch
+i am from just branch 
+>>>>>>> just
 hello guyz
 hello guyz
